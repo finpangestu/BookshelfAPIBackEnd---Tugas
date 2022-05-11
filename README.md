@@ -1,4 +1,4 @@
-# Bookshelf API (tugas Submission dari Dicoding)
+# Bookshelf API
 
 Merupakan submission dari kelas belajar dicoding, yaitu Belajar Membuat Aplikasi Back-End Pemula
 
